@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: colouredflower/streameo-backend:latest
+          tags: hardikanand/personal-backend:latest
