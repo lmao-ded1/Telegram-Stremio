@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: colouredflower/telegram-stremio:latest
+          tags: colouredflower/streameo-backend:latest
